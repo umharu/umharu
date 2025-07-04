@@ -1,4 +1,7 @@
-<h1 align="center"><b>Hi, I'm Maximiliano Roldan Capponi</b> <img src="https://giphy.com/gifs/Felshaus-katze-felshaus-felshausi-T3rgaqd1vT6idUS12Q" width="35"></h1>
+<h1 align="center">
+  <b>Hi, I'm Maximiliano Roldan Capponi</b>
+  
+</h1>
 
 <p align="center">
   Welcome to my GitHub profile!  
@@ -7,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="185"/>
 </p>
 
 ---
@@ -18,14 +21,15 @@
 - 🧑‍🏫 I also teach and build educational material for developers and schools.
 - 🛠️ Current stack: Solidity, Python, Java, Docker, MongoDB.
 
-
 ---
 
 ### 📫 Connect with me
 
 <p align="left">
-  
-  <a href="https://www.linkedin.com/in/roldancapponimaximiliano/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/roldancapponimaximiliano/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
+
