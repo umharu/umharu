@@ -16,9 +16,9 @@
 
 ### 🚀 About Me
 
-- 💼 I’m working on Ethereum smart contracts, Solidity and Foundry.
-- 🧑‍🏫 I also teach and build educational material for developers and schools.
-- 🛠️ Current stack: Solidity, Python, Java, Docker, MongoDB.
+
+- 🧑‍🏫 I teach and build educational material for developers and schools.
+- 🛠️ Current stack: Python, Java, Docker, MongoDB.
 
 ---
 
@@ -31,4 +31,5 @@
 </p>
 
 ---
+
 
