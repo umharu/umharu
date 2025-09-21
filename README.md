@@ -2,23 +2,18 @@
   <b>Hi, I'm Maximiliano </b>
   </h1>
 
-<p align="center">
-  Welcome to my GitHub profile!  
-  <br>
-  I'm passionate about blockchain, smart contracts, and open-source development.
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
-</p>
+
 
 ---
 
 ### 🚀 About Me
 
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
+</p>
 
-- 🧑‍🏫 I teach and build educational material for developers and schools.
-- 🛠️ Current stack: Python, Java, Docker, MongoDB.
+
 
 ---
 
@@ -31,5 +26,6 @@
 </p>
 
 ---
+
 
 
