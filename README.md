@@ -1,9 +1,11 @@
 <h1 align="center">
-  <b>Hi, I'm Maximiliano </b>
-  </h1>
+  <b>Hi, I'm maximilian0.eth 👋</b>
+</h1>
 
-
-
+<p align="center">
+Web3 
+Bachelor’s Student in Cyber Defense at the National University of Defense (UNDEF)
+</p>
 
 ---
 
@@ -15,9 +17,7 @@
 
 
 
----
-
-### 📫 Connect with me
+### 📫 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/roldancapponimaximiliano/">
@@ -26,6 +26,10 @@
 </p>
 
 ---
+
+⭐ _If you like my work, feel free to follow me or connect on LinkedIn!_
+
+
 
 
 
