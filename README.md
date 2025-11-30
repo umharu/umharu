@@ -1,20 +1,21 @@
 <h1 align="center">
-  <b>Hi, I'm maximilian0.eth 👋</b>
+  <b>maximilian0.eth 👋</b>
 </h1>
 
 <p align="center">
-Web3 
-Bachelor’s Student in Cyber Defense at the National University of Defense (UNDEF)
+  <b>Web3</b><br>
+  <b>Bachelor’s Student in Cyber Defense at the National University of Defense (UNDEF)</b>
 </p>
+
+
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
 </p>
-
 
 
 ### 📫 Connect With Me
@@ -25,9 +26,10 @@ Bachelor’s Student in Cyber Defense at the National University of Defense (UND
   </a>
 </p>
 
+⭐ _If you like my work, feel free to connect on LinkedIn!_
+
 ---
 
-⭐ _If you like my work, feel free to follow me or connect on LinkedIn!_
 
 
 
