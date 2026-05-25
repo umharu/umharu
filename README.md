@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Maximiliano 👋</h1>
-<h3 align="center">maximilian0.eth · Web3 Builder & Cyber Defense Student</h3>
+<h1 align="center">Hi there, I'm maximilian0.eth 👋</h1>
+<h3 align="center">Web3 Builder & Cyber Defense Student</h3>
 
 <p align="center">
   <a href="https://twitter.com/0xMaximilian0">
@@ -66,9 +66,7 @@
 - On-chain Analytics
 ```
 
----
 
-## 📫 Let's Connect
 
 <p align="center">
   <a href="https://twitter.com/0xMaximilian0">
@@ -76,9 +74,6 @@
   </a>
 </p>
 
-<p align="center">
-  <i>⭐ If you like my work, feel free to connect — always happy to talk Web3 & Security!</i>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
