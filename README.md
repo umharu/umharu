@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm maximilian0.eth 👋</h1>
+<h1 align="center">I'm maximilian0.eth </h1>
 <h3 align="center">Web3 Builder & Cyber Defense Student</h3>
 
 <p align="center">
@@ -20,7 +20,7 @@
 - 🔐 Exploring the intersection of **cybersecurity** and **smart contracts**
 - 🚀 Currently learning: **Solidity, EVM internals, and on-chain forensics**
 - 🤝 Open to collaborations in **Web3, DeFi, and security research**
-- ⚡ Fun fact: I believe the future of the internet is **trustless and verifiable**
+- ⚡  I believe the future of the internet is **trustless and verifiable**
 
 ---
 
