@@ -2,8 +2,8 @@
 <h3 align="center">Web3 Builder & Cyber Defense Student</h3>
 
 <p align="center">
-  <a href="https://twitter.com/0xMaximilian0">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  
+    
   </a>
 </p>
 
@@ -69,8 +69,7 @@
 
 
 <p align="center">
-  <a href="https://twitter.com/0xMaximilian0">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  
   </a>
 </p>
 
